@@ -1,0 +1,21 @@
+body {
+    background-image: url("Background.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.heading {
+font-size: 23px;
+width: 75%;
+margin: 10px;
+}
+
+.status {
+font-size: 18px;
+}
+
+canvas {
+    border: 5px dotted black;
+    border-radius: 10px;
+    box-shadow: 5px 5px 20px gray;
+}
